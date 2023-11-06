@@ -1,6 +1,6 @@
 <div align="center">
 
-![Codember](./images/codember.webp)
+# Codember - Retos de Programación para la comunidad
 
 # [codember](https://codember.dev)
 
