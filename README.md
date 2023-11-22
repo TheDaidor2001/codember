@@ -16,3 +16,4 @@ Retos de [codember](https://codember.dev/) creado por [@midudev](https://github.
 | :-------: | :----------------------------: |
 |    #01    | [JS](2023/ejercicio1/index.js) |
 |    #02    | [JS](2023/ejercicio2/index.js) |
+|    #03    | [JS](2023/ejercicio3/index.js) |
